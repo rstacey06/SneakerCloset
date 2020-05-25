@@ -55,7 +55,7 @@ function renderAllShoes(){
   Shoe.all.forEach(shoe => {
     main.appendChild(shoe.fullRender())
   })
-   //render all shoe with name and brand
+  //render all shoe with name and brand
 }
 
 function renderAllShoesBrands(){
