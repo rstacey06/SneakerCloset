@@ -9,7 +9,7 @@ const brandsAdapter = new BrandsAdapter("http://localhost:3000/brands")
 shoesAdapter.fetchShoes()
 brandsAdapter.fetchBrands()
 
-//Add event listener on menu buttons 
+//Add event listener on menu buttons
 //Select our main div
 
 const main = document.getElementById('main')
@@ -48,7 +48,7 @@ const callbacks = {
   allShoes: renderAllShoes,
   shoesBrands: renderAllShoesBrands,
   newShoe: renderNewShoeForm,
-  // newBrand: renderNewBrandForm
+   // newBrand: renderNewBrandForm
 }
 
 function renderAllShoes(){
