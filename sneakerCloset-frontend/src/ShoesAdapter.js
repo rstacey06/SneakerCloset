@@ -1,4 +1,4 @@
-class ShoesAdapter{
+class ShoesAdapter {
   constructor(baseURL){
     this.baseURL = baseURL
   }

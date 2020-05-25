@@ -1,4 +1,4 @@
-class BrandsAdapter{
+class BrandsAdapter {
   constructor(baseURL){
     this.baseURL = baseURL
   }

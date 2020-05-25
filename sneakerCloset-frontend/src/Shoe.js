@@ -1,4 +1,4 @@
-class Shoe {
+class Shoe { 
 
   static all = []
 

@@ -1,4 +1,4 @@
-class Brand {
+class Brand { 
 
   static all = []
 

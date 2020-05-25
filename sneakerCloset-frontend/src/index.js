@@ -1,4 +1,4 @@
-//We can some server requests for data
+//We can some server requests for data 
 
 //Get all shoes
 //Get all Brands
