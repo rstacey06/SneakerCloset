@@ -4,6 +4,7 @@ class ShoesAdapter {
   }
 
   //the adapter is going to do all fetch requests that correspond toshoes
+  
   fetchShoes(){
     fetch(this.baseURL)
       .then(res => res.json())
