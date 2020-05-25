@@ -1,4 +1,4 @@
-class Shoe{ 
+class Shoe{
 
   static all = []
 
@@ -41,7 +41,6 @@ class Shoe{
 
     <button class="delete" data-id="${this.id}">Delete</button>
     <!-- <button class="edit" data-id="${this.id}">edit</button> -->
-
     `
 
     this.element.addEventListener('click', handleDelete)
