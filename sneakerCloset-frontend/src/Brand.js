@@ -1,4 +1,4 @@
-class Brand { 
+class Brand {
 
   static all = []
 
@@ -28,5 +28,4 @@ class Brand {
     `
     return this.element
   }
-
 }
