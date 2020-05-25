@@ -66,7 +66,7 @@ function renderAllShoesBrands(){
 
 function renderNewShoeForm(){
   formDiv.innerHTML = `
-    Shoe Name:
+    Shoe Name: 
     <input type="text" />
     <br>
     Shoe Style:
