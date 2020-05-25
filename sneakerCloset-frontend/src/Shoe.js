@@ -69,21 +69,3 @@ class Shoe{
       return this.element
     }
   }
-
-//   this.element.addEventListener('click', handleEdit)
-//
-// function handleEdit(e){
-//   if (e.target.className = "edit"){
-//     let configObj = {
-//     method: "PATCH",
-//     body: JSON.stringify({
-//       completed: true
-//     }),
-//     headers: {
-//       "Content-type": "application/json; charset-UTF-8",
-//       Accepts: "application/json"
-//     }
-//   }
-//   .then(response => response.json())
-//   .then(json => console.log(json))
-//

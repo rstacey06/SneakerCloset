@@ -28,8 +28,8 @@ class ShoesController < ApplicationController
   # end
 
   def destroy
-    @shoe = Shoe.find(params[:id])
-    @shoe.destroy
+    shoe = Shoe.find(params[:id])
+    shoe.destroy
   end
 
   # private
