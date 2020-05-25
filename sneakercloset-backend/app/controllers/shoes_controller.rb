@@ -33,7 +33,7 @@ class ShoesController < ApplicationController
   end
 
   # private
-  #
+  
   # def shoe_params
   #   params.require(:shoe).permit(:name, :style, :colorway, :condition, :size, :brand_id)
   # end
